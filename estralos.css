@@ -1,0 +1,86 @@
+header{
+    text-align: center;
+    background-color: rgb(101, 99, 139);
+    padding: 10px;
+    border-bottom: 2px solid rgb(68, 64, 88)
+}
+
+body{
+    background-image: url('imagens/FWrV0h-WQAQsWJu.jpg');
+    background-size: cover;
+}
+
+*{
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0; 
+    text-align: center;
+}
+
+main{
+   min-height: 60vh;
+   padding: 15px;
+   background-color: #EEE;
+   width: 60%;
+   align-self: center;
+   margin: auto;
+   margin-top: 10px;
+   border-radius: 20px;
+   opacity: 90%;
+}
+
+.negrario{
+    font-weight: bold;
+}
+
+img{
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+.img-1{
+    width: 170px;
+    height: 120px;
+}
+
+.img-2{
+    width: 190px;
+    height: 75px;
+}
+
+.img-3{
+    width: 210px;
+    height: 70px;
+}
+
+.img-4{
+    width: 170px;
+    height: 210px;
+}
+
+#gnose{
+    width: 220px;
+    height: 170px;
+}
+
+#butão{
+    background-color: #323b6e;
+    border-radius: 15px;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+   width: 20%;
+   text-align: center;
+   margin: auto;
+   transition: 1s;
+   text-transform: uppercase;
+}
+#butão:hover{
+    background-color: #5463b9;
+}
+table{
+    margin: 0 auto;
+    width: 200px;
+}
+
